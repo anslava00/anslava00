@@ -39,3 +39,7 @@ Junior software engineer.
        <img width="175px" src="https://komarev.com/ghpvc/?username=anslava00&color=DE002D">
    </a>
 </div>
+
+## Resume
+
+<https://github.com/anslava00/anslava00/blob/main/резюме.doc>
