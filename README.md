@@ -2,10 +2,10 @@
 <hr style="border: 2px solid blue;">
 
 <p align='center'>
-  <a href="https://t.me/Slavulkin">
+  <a href="https://t.me/VAAn000">
      <img height=50 src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://vk.com/clavo4ka">
+  <a href="https://vk.com/vaan000">
      <img height=50 src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white"/>
   </a>
   <a href="https://wa.me/79622201765">
